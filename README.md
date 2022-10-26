@@ -3,3 +3,4 @@ hello mırık
 blabla
 goccik
 keçere meçere
+kombar çombar
